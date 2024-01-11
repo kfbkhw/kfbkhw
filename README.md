@@ -1,3 +1,6 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kfbkhw&theme=blueberry)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kfbkhw&show_icons=true&theme=blueberry)
+
 - 👋 Hi, I’m Hailey Kim (@kfbkhw)!
 - 👀 I’m interested in Web & Mobile Development.
 - 🌱 I’m currently learning Frontend Web Development & going to learn Mobile Dev, too! 😆
@@ -5,7 +8,6 @@
 - 📫 How to reach me: kfbkhw@gmail.com.
 - ⚡ Fun fact: I love to knit and code!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kfbkhw&theme=graywhite)
 
 <!---
 kfbkhw/kfbkhw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
