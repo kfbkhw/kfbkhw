@@ -1,6 +1,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kfbkhw&theme=graywhite)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kfbkhw&show_icons=true&theme=graywhite)
-![](https://visitor-badge.laobi.icu/badge?page_id=kfbkhw.kfbkhw)
+![](https://visitor-badge.laobi.icu/badge?page_id=kfbkhw)
 
 - 👋 Hi, I’m Hailey Kim (@kfbkhw)!
 - 👀 I’m interested in Web & Mobile Development.
