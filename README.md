@@ -4,9 +4,9 @@
 
 - 👋 Hi, I’m Hailey Kim (@kfbkhw)!
 - 👀 I’m interested in Web & Mobile Development.
-- 🌱 I’m currently learning Frontend Web Development & going to learn Mobile Dev, too! 😆
+- 🌱 I’m currently learning Frontend Web Development & looking forward to learn Mobile Dev, too! 😆
 - 💞️ I’m looking to collaborate on **Any Fun Projects** involving web development.
-- 📫 Reach me at kfbkhw@gmail.com
+- 📫 Reach me at haileyprogramming@gmail.com
 - ⚡ Fun fact: I love to knit and code!
 <br>
 
