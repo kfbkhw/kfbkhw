@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love to knit and code!
 <br>
 
-<img src='https://wakatime.com/share/@018d0f6f-c3e1-4d31-9657-6276f02aff8b/b71740b3-8475-456a-8a57-4716c22cb3d1.svg' width="600" />
+<img src='https://wakatime.com/share/@018d0f6f-c3e1-4d31-9657-6276f02aff8b/b71740b3-8475-456a-8a57-4716c22cb3d1.svg' width="500" />
 
 <!---
 kfbkhw/kfbkhw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
